@@ -50,7 +50,7 @@ do {
   do {
     partidas = +prompt(`${nome}, Agora quantas vezes iremos Jogar? `); // Quantidade de rodadas do game.
     console.log();
-  } while (isNaN(partidas)); // Aceita apenas Number.
+  } while (isNaN(partidas) || partidas <= 0); // Aceita apenas Number.
 
   for (let i = 0; i < partidas; i++) { // Inicio do laço para o número de escolha de jogadas.
 
