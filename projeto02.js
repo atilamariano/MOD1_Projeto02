@@ -1,5 +1,6 @@
 console.clear();
 const prompt = require("prompt-sync")();
+const chalk = require("chalk");
 
 // Hello Word!.
  
