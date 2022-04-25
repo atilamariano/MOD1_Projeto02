@@ -48,7 +48,6 @@ do {
   };
 
   do {
-    partidas = +prompt(`${nome}, Agora quantas vezes iremos Jogar? `); // Quantidade de rodadas do game.
     console.log();
   } while (isNaN(partidas) || partidas <= 0); // Aceita apenas Number.
 
