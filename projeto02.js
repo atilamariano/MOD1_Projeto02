@@ -38,7 +38,7 @@ do {
   let empate = 0;
   let player = 0;
   
-  partidas = Math.floor(+prompt(`${nome}, Digite o número de partidas que iremos jogar. `); // Númereos de rodas.
+  partidas = Math.floor(+prompt(`${nome}, Digite o número de partidas que iremos jogar. `)); // Númereos de rodas.
 
   if (res == "nao" || res == 'cancelar') { // Cancelar Inicio ou a partida.
     break;
