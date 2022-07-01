@@ -1,4 +1,4 @@
-# projeto02
+# MOD1_Projeto02
 
 Segundo projeto que fiz no curso de Full Stack da Blue Edteck.
 
