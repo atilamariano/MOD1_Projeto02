@@ -2,6 +2,10 @@
 
 Segundo projeto que fiz no curso de Full Stack da Blue Edteck.
 
+Linguagem: JavaScript
+
+Tecnologias: Node.JS, JavaScript Vanilla.
+
 # Projeto 2 - Jokenpô
 
 O Jokenpô é o popular jogo do "pedra, papel e tesoura". A premissa é simples, você tem 3 elementos para escolher,
